@@ -1,0 +1,17 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets & Environment
+.env
+.env.*
+*.pem
+*.key
+
+# Local backups & deployment scratch
+_revisions/
+CNAME
+.surgeignore
+*.log
